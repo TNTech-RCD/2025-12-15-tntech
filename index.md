@@ -85,6 +85,8 @@ displayed if the 'eventbrite' field in the header is not set.
 <ul>
 <li><strong>TN Tech students, faculty, and staff: <a href="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=-Mr-ZsA9LE24uO_w3epG8Pd9xp4roEtFpGN_dLD6pNxUNUk3RzhMR0lCSEpBVzU5UFcxNTFISFAzOC4u">register here via Microsoft Forms</a>.</strong></li>
 <li><strong>Everyone else: email <a href='mailto:ResearchComputing@tntech.edu'>ResearchComputing@tntech.edu</a></strong></li>
+</ul>
+</h2>
 
 <h2 id="general">General Information</h2>
 
